@@ -1,4 +1,4 @@
-### How to provision instance on AWS
+## How to provision instance on AWS
 
 In this mini lab/lesson we are going to provision an EC2 using Hashicorps's terraform.
 
